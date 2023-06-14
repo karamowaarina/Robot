@@ -1,0 +1,6 @@
+C:\Users\Ув. Господин Ринат\Downloads\Экзамен\UGI-216004-exam\Robots\Robots\bin\Debug\Robots.dll
+C:\Users\Ув. Господин Ринат\Downloads\Экзамен\UGI-216004-exam\Robots\Robots\bin\Debug\Robots.pdb
+C:\Users\Ув. Господин Ринат\Downloads\Экзамен\UGI-216004-exam\Robots\Robots\obj\Debug\Robots.csproj.AssemblyReference.cache
+C:\Users\Ув. Господин Ринат\Downloads\Экзамен\UGI-216004-exam\Robots\Robots\obj\Debug\Robots.csproj.CoreCompileInputs.cache
+C:\Users\Ув. Господин Ринат\Downloads\Экзамен\UGI-216004-exam\Robots\Robots\obj\Debug\Robots.dll
+C:\Users\Ув. Господин Ринат\Downloads\Экзамен\UGI-216004-exam\Robots\Robots\obj\Debug\Robots.pdb

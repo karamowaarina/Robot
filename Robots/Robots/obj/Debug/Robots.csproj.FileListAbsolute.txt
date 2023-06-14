@@ -1,6 +1,0 @@
-C:\Users\5324376\Downloads\Robots\Robots\bin\Debug\Robots.dll
-C:\Users\5324376\Downloads\Robots\Robots\bin\Debug\Robots.pdb
-C:\Users\5324376\Downloads\Robots\Robots\obj\Debug\Robots.csproj.AssemblyReference.cache
-C:\Users\5324376\Downloads\Robots\Robots\obj\Debug\Robots.csproj.CoreCompileInputs.cache
-C:\Users\5324376\Downloads\Robots\Robots\obj\Debug\Robots.dll
-C:\Users\5324376\Downloads\Robots\Robots\obj\Debug\Robots.pdb
